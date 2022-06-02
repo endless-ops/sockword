@@ -23,7 +23,7 @@ android {
             android.applicationVariants.all { variant ->
                 variant.outputs.all {
                     // outputFileName = "未来之窗_${issueTime()}.apk"
-                    outputFileName = "锁屏背单词.apk"
+                    outputFileName = "sockwork.apk"
                 }
             }
 

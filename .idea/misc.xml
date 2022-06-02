@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/projectworkspace/android-workspace/sockword/app/src/main/res/drawable/btn_kuang.xml" value="0.138" />
         <entry key="..\:/projectworkspace/android-workspace/sockword/app/src/main/res/layout/activity_main.xml" value="0.22604166666666667" />
+        <entry key="..\:/projectworkspace/android-workspace/sockword/app/src/main/res/layout/home_layout.xml" value="0.22780797101449277" />
+        <entry key="..\:/projectworkspace/android-workspace/sockword/app/src/main/res/layout/set_fragment_layout.xml" value="0.22780797101449277" />
+        <entry key="..\:/projectworkspace/android-workspace/sockword/app/src/main/res/layout/study_fragment.xml" value="0.22780797101449277" />
+        <entry key="..\:/projectworkspace/android-workspace/sockword/app/src/main/res/layout/switch_button.xml" value="0.22780797101449277" />
+        <entry key="..\:/projectworkspace/android-workspace/sockword/app/src/main/res/layout/wrong_layout.xml" value="0.22780797101449277" />
         <entry key="..\:/projectworkspace/android-workspace/sockword/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.138" />
       </map>
     </option>
